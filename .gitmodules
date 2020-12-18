@@ -1,0 +1,3 @@
+[submodule "stripe-php"]
+	path = stripe-php
+	url = org-856813@github.com:stripe/stripe-php.git
